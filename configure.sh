@@ -30,7 +30,7 @@ cat << EOF > /usr/local/etc/v2ray/config.json
                 "decryption": "none"
             },
             "streamSettings": {
-                "network": "tcp"
+                "network": "ws"
             }
         }
     ],
